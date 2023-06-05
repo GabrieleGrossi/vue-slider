@@ -53,8 +53,7 @@ div.slider-button.next{
 
 div.thumbnails{
     display: flex;
-    height: 100px;
-    margin-bottom: 3rem;
+    height: 150px;
 }
 
 div.thumbnails img{
