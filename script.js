@@ -9,7 +9,6 @@ createApp({
                 'https://i.ebayimg.com/images/g/IWwAAOSweCpcUNrC/s-l1600.jpg',
                 'https://m.media-amazon.com/images/I/81ynV-Akv-L.jpg',
                 'https://pillsofmovies.com/wp-content/uploads/2016/11/il-grande-gatsby-nuovo-trailer-italiano-due-spot-tv-e-10-locandine-2.jpg',
-                'https://www.postermania.it/38116-thickbox_default/locandina-l-odio-la-haine-vincent-cassel-mathieu-kassovitz-banlieue-cinema-cat3.jpg',
                 'https://aforismi.meglio.it/img/film/Dune-2021.jpg',
                 'https://www.drcommodore.it/wp-content/uploads/2018/10/exorcist-min.jpg'
             ],

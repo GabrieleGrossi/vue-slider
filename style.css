@@ -32,6 +32,8 @@ div.slide{
     position: relative;
     display: flex;
     flex-direction: column;
+    min-width: 600px;
+    max-height: 950px;
 }
 
 div.slider-button{
@@ -56,9 +58,9 @@ div.thumbnails{
 }
 
 div.thumbnails img{
-    filter: brightness(40%)
+    filter: brightness(30%)
 }
 
 div.thumbnails img.active{
-    filter: brightness(120%);
+    filter: brightness(100%);
 }
