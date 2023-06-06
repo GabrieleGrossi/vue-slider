@@ -44,6 +44,9 @@ div.slider-button{
     transform: translateY(-50%);
     font-size: 2rem;
 }
+div.slider-button:hover{
+    cursor: pointer;
+}
 
 div.slider-button.prev{
     right: 105%;
@@ -56,6 +59,9 @@ div.slider-button.next{
 div.thumbnails{
     display: flex;
     height: 150px;
+}
+div.thumbnails:hover{
+    cursor: pointer;
 }
 
 div.thumbnails img{

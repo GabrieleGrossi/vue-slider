@@ -22,7 +22,7 @@
             <div class="slide">
                 <img :src="images[activeIndex]" alt="Locandine Films">
                 <div class="thumbnails">
-                    <div class="thumbnails" v-for="(image, index) in images">
+                    <div class="thumbnails" v-for="(image, index) in images" @click="goToSlide(index)">
                         <img :src="image" alt="Locandine Films"
                         :class="index === activeIndex ? 'active' : ''">
                     </div>
